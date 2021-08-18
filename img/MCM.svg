@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="MCM.svg"
+   inkscape:export-filename="/home/larna/Documents/mamma/Website/sito-mamma/img/favicon-mcm.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <rect
+       x="-0.020157269"
+       y="0.098542804"
+       width="50.235023"
+       height="50.356169"
+       id="rect835" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-34.285714"
+     inkscape:cy="240.35714"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text833"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.35;font-family:sans-serif;white-space:pre;shape-inside:url(#rect835);fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(3.6914574,0,0,4.6844299,3.8139089,1.6328942)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="-0.01953125"
+         y="5.060645"
+         id="tspan12294"><tspan
+           style="font-size:6.1081px;fill:#666666"
+           id="tspan12290">MC</tspan><tspan
+           style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#286845"
+           id="tspan12292">
+</tspan></tspan><tspan
+         x="-0.01953125"
+         y="9.2971038"
+         id="tspan12300"><tspan
+           style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#286845"
+           id="tspan12296">    </tspan><tspan
+           style="font-size:6.1081px;fill:#de0748"
+           id="tspan12298">M</tspan></tspan></text>
+  </g>
+</svg>
