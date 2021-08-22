@@ -2775,3 +2775,7 @@ code {
 .dropdown-item.disabled, .dropdown-item:disabled {
   color: #222;
 }
+
+.no-bullet {
+  list-style-type: none;
+}
